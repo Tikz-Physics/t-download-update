@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "changelog": "B\u1ed5 sung h\u01b0\u1edbng d\u1eabn s\u1eed d\u1ee5ng tr\u1ef1c quan theo t\u1eebng ch\u1ee9c n\u0103ng; c\u1ea3i thi\u1ec7n t\u1ea3i Google Drive, OneDrive, video v\u00e0 playlist; b\u1ed5 sung d\u1ecbch v\u00e0 x\u1eed l\u00fd PDF; n\u00e2ng \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh khi c\u00e0i \u0111\u1eb7t th\u00e0nh ph\u1ea7n h\u1ed7 tr\u1ee3, qu\u1ea3n l\u00fd t\u00e0i kho\u1ea3n, k\u00edch ho\u1ea1t PRO v\u00e0 c\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng.",
-  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.1/T-Download-1.1.1-Setup.exe",
-  "checksum_sha256": "547aea02a80799ab323abf80fa879a381dd35846622ec69913283c6135628e4e",
+  "version": "1.1.2",
+  "changelog": "S\u1eeda \u1ed5n \u0111\u1ecbnh ph\u00e1t h\u00e0nh, c\u0103n ch\u1ec9nh ghi ch\u00fa khi zoom PDF v\u00e0 lo\u1ea1i t\u00e0i nguy\u00ean qu\u1ea3ng c\u00e1o kh\u1ecfi b\u1ea3n c\u00e0i.",
+  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.2/T-Download-1.1.2-Setup.exe",
+  "checksum_sha256": "045e4695c43faab626d7b54a18f3309801193845c7b0524a210b01edd2f5a14b",
   "required": false,
-  "signature": "0889350d1fe153343848afc8fb8629dfb37acd6da2509f470487a0f7f8f36588646f5d7f459bbe7f0b6a56b7db68ac65d1390a7d177a0d8f04fdea3e46ae5202"
+  "signature": "e029081f00e920b4e41a0dc1bf47255db1b9f184437727bd9f30a7fc281240807bf6e00b56e4a7db79a65b879aea1a2c106d20dfaae574d0bf99865369b33605"
 }
