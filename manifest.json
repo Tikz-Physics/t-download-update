@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "changelog": "B\u1ed5 sung h\u01b0\u1edbng d\u1eabn s\u1eed d\u1ee5ng tr\u1ef1c quan theo t\u1eebng ch\u1ee9c n\u0103ng; c\u1ea3i thi\u1ec7n t\u1ea3i Google Drive, OneDrive, video v\u00e0 playlist; b\u1ed5 sung d\u1ecbch v\u00e0 x\u1eed l\u00fd PDF; n\u00e2ng \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh khi c\u00e0i \u0111\u1eb7t th\u00e0nh ph\u1ea7n h\u1ed7 tr\u1ee3, qu\u1ea3n l\u00fd t\u00e0i kho\u1ea3n, k\u00edch ho\u1ea1t PRO v\u00e0 c\u1eadp nh\u1eadt \u1ee9ng d\u1ee5ng.",
-  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.1/T-Download-1.1.1-Setup.exe",
-  "checksum_sha256": "f74a7cb1c98fe731d6b64ca3207c626af72a74ea4e380c6615e2e91b6c1270bc",
+  "version": "1.0.0",
+  "changelog": "Phien ban desktop dau tien. Dung thu 7 ngay, sau do can license PRO.",
+  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.0.0/T-Download-1.0.0-Setup.exe",
+  "checksum_sha256": "36963c91023491a86204a5e395e8dec7d9bd66758b4f03d7b10956760c5f4840",
   "required": false,
-  "signature": "01194aad92bb3f6ba86b14ca19218127c354b1c1aa17d2720c0e3cb1a47e1b57e246bfe1c7dc0ad9af6d99dc6fe30759e97f36e3aa330a49d258aa4a2411520a"
+  "signature": "33464400984eb0e17740d53da8e030e5dd6f26de7f159e85ae913968f734cb091e415373b6ad429903fea2cadceab2f06714231d739ccd2cf17f369f78182506"
 }
