@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "changelog": "B\u1ea3n ho\u00e0n thi\u1ec7n - Ph\u00e1t h\u00e0nh",
-  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.3/T-Download-1.1.3-Setup.exe",
-  "checksum_sha256": "a424880de293db89f4557b36e07a08094e97c1b68815fdfa0b153e272b13df01",
+  "version": "1.1.4",
+  "changelog": "N\u00e2ng c\u1ea5p ch\u1ee9c n\u0103ng d\u1ecbch AI ch\u00ednh x\u00e1c",
+  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.4/T-Download-1.1.4-Setup.exe",
+  "checksum_sha256": "077850c85b3b6456793183c355da5de9c1a5af633a2bede97bb96797cae6db8e",
   "required": false,
-  "signature": "f1ddd89c83de436c13d95eb109f7989586adf487392e67d262be6e11458169b40fe63b59aa9c840ec66109c6ef39870d63636e9dfd449156d91876a5f0f39d0f"
+  "signature": "543104bc1ec5568ed18bfae5626cce637ae39fa03494f50e4140be8451e32beeeb95a3178fb0b7038a74279dd0d87c05d217f0cf5e22e685def6e1848efeef03"
 }
