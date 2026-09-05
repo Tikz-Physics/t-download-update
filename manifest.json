@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "changelog": "N\u00e2ng c\u1ea5p ch\u1ee9c n\u0103ng d\u1ecbch AI ch\u00ednh x\u00e1c",
-  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.4/T-Download-1.1.4-Setup.exe",
-  "checksum_sha256": "077850c85b3b6456793183c355da5de9c1a5af633a2bede97bb96797cae6db8e",
+  "version": "1.1.5",
+  "changelog": "S\u1eeda ch\u1ee9c n\u0103ng d\u1ecbch PDF \u0111\u00fang ng\u1eef c\u1ea3nh, T\u1ea3i gi\u1eef nguy\u00ean \u0111\u1ecbnh d\u1ea1ng word",
+  "download_url": "https://github.com/Tikz-Physics/T-Download-Releases/releases/download/v1.1.5/T-Download-1.1.5-Setup.exe",
+  "checksum_sha256": "339fadc993e4692d1e9bbd15f3b06883923dd52aa1bf3ffd2ef950906f3f9296",
   "required": false,
-  "signature": "543104bc1ec5568ed18bfae5626cce637ae39fa03494f50e4140be8451e32beeeb95a3178fb0b7038a74279dd0d87c05d217f0cf5e22e685def6e1848efeef03"
+  "signature": "fb365ffe0335b9cac442c48aee19cecbc11a43851abfec710f061153f427414beb47839482a874af08fd0836631dcaf80ffd589c84b102b442a655189a15740e"
 }
